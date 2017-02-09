@@ -1,0 +1,1 @@
+Performing statistical calculations on the data which has been received via remote procedural call. The rpc call has been made to spot crime api via Spyne tool in python.
